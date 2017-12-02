@@ -1,0 +1,15 @@
+.orange{
+	background: #E59866;
+}
+.red{
+	background: #D35400;
+}
+.light{
+	background: #EDBB99;
+}
+p{
+	margin: 0;
+	padding: 65px;
+	border: 1px solid;
+	color:white;
+}
